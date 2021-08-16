@@ -5,7 +5,8 @@
 </head>
 
 <body>
-This is my first JSP page.
+This is my first JSP file.
+Made by Yarin Mordechay.
 </body>
 
 </html>
